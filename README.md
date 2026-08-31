@@ -11,7 +11,7 @@ Full Stack Developer focused on building reliable web applications and backend s
 
 ## Featured Projects
 
-### [Canteen-App]([https://github.com/amartist17/Canteen-App](https://github.com/amartist17/canteen-react-ui))
+### [Canteen-App](https://github.com/amartist17/canteen-react-ui)
 
 A cafeteria management system built around real operational workflows, including RFID-based interactions, student subscriptions, billing and transactions, inventory, and day-to-day management.
 
