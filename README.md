@@ -52,7 +52,6 @@ My developer portfolio, bringing together my projects, experience, and technical
 
 ## Currently building & exploring
 
-- **Job Buddy:** a local workspace for discovering job leads, preparing applications, and tracking progress.
 - Stronger backend systems and production-ready APIs.
 - Practical AI integrations, LLM-powered applications, and retrieval-augmented generation.
 - Deployment workflows with Docker and GitHub Actions.
