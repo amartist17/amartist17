@@ -1,39 +1,62 @@
-# Amardeep Singh
+<p align="center">
+  <img src="assets/peaceful-pixel-banner.png" alt="Peaceful pixel art mountains, a lake, and a traveler resting beneath a tree" width="100%" />
+</p>
 
-Full Stack Developer focused on building reliable web applications and backend systems with JavaScript and TypeScript. I enjoy turning practical problems into straightforward, maintainable products.
+# Hi, I'm Amardeep 👋
 
-## Tech Stack
+**Full Stack Developer · JavaScript & TypeScript**
 
-- **Frontend:** React, Next.js, JavaScript, TypeScript
-- **Backend:** Node.js, Express, REST APIs
-- **Databases:** MongoDB, PostgreSQL
-- **Tools & Cloud:** Git, GitHub Actions, Docker, AWS basics
+I build practical web applications, from thoughtful interfaces to reliable backend systems. I enjoy turning everyday problems into products that are straightforward to use and maintain.
 
-## Featured Projects
+![Animated introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1600&color=58A6FF&width=520&height=35&lines=Thoughtful+interfaces.+Reliable+backends.;Building+with+JavaScript+and+TypeScript.)
 
-### [Canteen-App](https://github.com/amartist17/canteen-react-ui)
+[Portfolio](https://amardeep2026.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/amardeep-singh17/) · [GitHub](https://github.com/amartist17)
 
-A cafeteria management system built around real operational workflows, including RFID-based interactions, student subscriptions, billing and transactions, inventory, and day-to-day management.
+## My toolkit
 
-### [MealVero](https://github.com/amartist17/MealVero)
+**Languages**
 
-A full-stack food ordering application covering the core customer ordering experience and supporting backend functionality.
+![JavaScript, TypeScript, and Python](https://skillicons.dev/icons?i=js,ts,py&theme=dark)
 
-### [Six-Degrees-of-Anything](https://github.com/amartist17/Six-Degrees-of-Anything)
+**Frontend**
 
-A recent modern web project and one of my latest builds.
+![React, Next.js, HTML, and CSS](https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark)
 
-### [Portfolio-Fullstack-2026](https://github.com/amartist17/Portfolio-Fullstack-2026)
+**Backend & databases**
 
-The source for my developer portfolio, bringing together my projects, experience, and technical work.
+![Node.js, Express, MongoDB, and PostgreSQL](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark)
 
-## Currently Exploring
+**Tools**
 
-- Building stronger backend systems and production-ready APIs
-- LLM-powered applications, retrieval-augmented generation (RAG), and practical AI integrations
-- Deployment workflows with Docker, GitHub Actions, and AWS
+![Git, GitHub Actions, and Docker](https://skillicons.dev/icons?i=git,githubactions,docker&theme=dark)
 
-## Connect
+## Featured projects
 
-- **Portfolio:** [amardeep2026.vercel.app](https://amardeep2026.vercel.app/)
-- **GitHub:** [github.com/amartist17](https://github.com/amartist17)
+### 🍃 Canteen-App
+
+A cafeteria management system covering RFID interactions, student subscriptions, billing, transactions, and inventory. Built around the everyday workflows of running a canteen.
+
+[Explore the repository →](https://github.com/amartist17/canteen-react-ui)
+
+### 🍽️ MealVero
+
+A full-stack food ordering application bringing together the customer ordering experience and supporting backend functionality.
+
+[Explore the repository →](https://github.com/amartist17/MealVero)
+
+### 🖥️ Portfolio Fullstack 2026
+
+My developer portfolio, bringing together my projects, experience, and technical work.
+
+[Visit the portfolio →](https://amardeep2026.vercel.app/) · [Source code](https://github.com/amartist17/Portfolio-Fullstack-2026)
+
+## Currently building & exploring
+
+- **Job Buddy:** a local workspace for discovering job leads, preparing applications, and tracking progress.
+- Stronger backend systems and production-ready APIs.
+- Practical AI integrations, LLM-powered applications, and retrieval-augmented generation.
+- Deployment workflows with Docker and GitHub Actions.
+
+---
+
+*Have an interesting project or opportunity? [Let's connect.](https://www.linkedin.com/in/amardeep-singh17/)*
